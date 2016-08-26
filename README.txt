@@ -1,4 +1,2 @@
-
 Hello again
-
 Hello, Git
